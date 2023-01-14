@@ -1,0 +1,27 @@
+.abdullah:hover {width: 1234px;
+    font-size: 100px;
+    color: brown;
+}
+.input-1:focus{
+color: blue;
+font-size: 30px;
+height: 20px;
+}
+li:nth-child(2n){
+    color: chartreuse;
+    font-size: 30px;
+}
+li:nth-child(2n+1){
+    color: blue;
+    font-size:25px ;
+    background-color: brown;
+}
+h3::after{
+    content: ' 5tk ';
+background-color: coral;
+}
+h3::before{
+    content: '500pc  ';
+ color: aliceblue;
+    background-color: black;
+}

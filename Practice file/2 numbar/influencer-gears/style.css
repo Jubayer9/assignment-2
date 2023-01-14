@@ -1,0 +1,77 @@
+/*@@@@@@@@@
+ {JUBAYER}
+@@@@@@@@@@@*/
+/*\\\\\\\\\\\\\\\\\\
+.section-title 
+\\\\\\\\\\\\\\\\\\*/
+ .section-title{
+    margin-top: 50px; 
+    margin-left: 120px; 
+}
+/*///////////////////
+ min-container 
+ ////////////////*/
+.first-nav{
+display: flex;
+justify-content: space-between;
+}
+.ul-style{
+    display: flex;
+gap: 36px;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-right:100px;
+margin-top: 60px;
+}
+.heading{
+    width: 558px;
+    font-weight:700px;
+font-size: 40px;
+line-height: 70px;
+margin-left: 120px;
+margin-top: 90px;
+}
+.start-pera{
+    width: 600px;
+font-size: 16px;
+line-height:24px;
+}
+.Preebook-button{
+    width: 196px;
+    height: 44px;
+    left: 120px;
+    top: 511px;
+    border-radius: 41px;
+    background-color:  #E02C6D;
+    color: white;
+    font-size: 16px;
+    font-weight: 700px;
+    border: none;
+}
+.img-and-headi{
+    display: flex;
+}
+.img-Circle{
+height: 475px;
+
+top: 181px;
+opacity:1; 
+margin: 100px 165px 100px 250px;
+}
+.img-camera{
+    position: absolute;
+width: 440px;
+height:414px;
+left: 955px;
+top: 275px;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+.section-2-heading{
+text-align: center;
+}
