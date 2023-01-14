@@ -5,21 +5,19 @@
 
   body{
 
-background-color:#ff8f0e13 ;
+background-color:
+rgba(255, 144, 14, 0.1);
   }
 
 /* nav section */
 .nav-section{
     display: flex;
-    align-items:center;
     justify-content: space-between;
 }
 
 /* nav-title */
-.nav-title{
-    font-weight: 700;
-    font-size: 45px;
-    line-height: 53px;
+.nav-titel{
+    margin-top: 50px;
 }
 
 /* nev ul */
@@ -29,4 +27,39 @@ background-color:#ff8f0e13 ;
     gap: 75px;
     margin-top: 63px;
     margin-right: 240px;
+}
+
+/* min heading */
+.min-heading {
+    text-align: center;
+}
+
+/* head-line */
+.head-line{
+    position: absolute;
+    width: 862px;
+    height:25px;
+    top: 205px;
+    left: 320px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 45px;
+}
+
+/* nifo-1 */
+.nifo-1{
+margin-top: 240px;
+color: rgba(114, 114, 114, 1);
+}
+
+/* explore-button */
+.explore-button{
+    width: 180px;
+height: 65px;
+ background-color: rgba(255, 144, 14, 1);
+ margin-top: 33px;
+ color: white;
+ font-size: 20px;
+ border:none ;
+ border-radius: 10px;
 }
